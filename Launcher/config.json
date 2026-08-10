@@ -99,6 +99,8 @@
   "ib-account": "",
   "ib-user-name": "",
   "ib-password": "",
+  "ib-two-factor-authentication-method": "ib-key",
+  "ib-mobile-authenticator-secret": "",
   "ib-host": "127.0.0.1",
   "ib-port": "4002",
   "ib-agent-description": "Individual",
